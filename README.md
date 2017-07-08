@@ -19,7 +19,7 @@ where COUNT(w) denotes the number of times that w appears in the corpus and wher
 a sum over all five-letter words. Note that in this model the conditional probability tables for the random
 variables Li are particularly simple:
 
-![alt text](./PLi.png)
+![alt text](./Pli.png)
 
 The posterior probability is:
 
