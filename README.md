@@ -8,7 +8,7 @@ question is what letter to guess next.
 
 The program uses the following belief network:
 
-![alt text](./Hangman_BN.png)
+![alt text](./Hangman_BN.png = 200x)
 
 Also, suppose that these five-letter
 words are chosen at random from a large corpus of text according to their frequency:
