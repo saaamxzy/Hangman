@@ -8,3 +8,4 @@ question is what letter to guess next.
 
 The program uses the following belief network:
 
+![alt text](./Hangman_BN.png)
