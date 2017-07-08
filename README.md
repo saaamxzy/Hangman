@@ -33,3 +33,8 @@ The predictive probability, based on the evidence, that the letter l appears
 somewhere in the word:
 
 ![alt text](./predictive.png)
+
+Below is a sample running output:
+
+![output](./output.png)
+
